@@ -21,3 +21,7 @@ footer  p{
 body{
 	margin: 200px;
 }
+td:hover{
+	background-color: blue;
+	opacity: 0.9;
+}
