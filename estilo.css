@@ -1,9 +1,0 @@
-table, th, td{
-	border: 2px solid gray;
-	border-collapse: collapse;
-	vertical-align: center;
-	text-align: center;
-}
-th{
-	background-color: red;
-}
